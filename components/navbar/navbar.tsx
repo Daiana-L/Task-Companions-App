@@ -140,10 +140,10 @@ const styles = StyleSheet.create({
   },
   centerButtonContainer: {
     position: "relative",
-    top: -20,
+    top: -10,
   },
   centerButton: {
-    backgroundColor: "#FB923C",
+    backgroundColor: "orange",
     width: 60,
     height: 60,
     borderRadius: 30,
